@@ -3,3 +3,4 @@ demisto-py==2.0.0
 Flask==1.1.1
 
 
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
